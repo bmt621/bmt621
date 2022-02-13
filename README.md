@@ -1,3 +1,4 @@
+- 🖐 @bello
 - 🔭 I’m interesed in AGI
 - 🌱 I’m currently learning machine learning, deep learning and basic computational neuroscience
 - 👯 I’m looking to collaborate on some research projects
