@@ -1,8 +1,7 @@
 - 🖐 @bello
 - 🔭 I’m interesed in AGI
-- 🌱 I’m currently learning machine learning, deep learning and basic computational neuroscience
-- 👯 I’m looking to collaborate on some research projects
-- 📫 How to reach me: bmtukur621@gmail.com
+- 🌱 I’m a machine learning and deep learning engineer with a touch on basic computational neuroscience
+- email: bmtukur621@gmail.com
 
 <!--
 **bmt621/bmt621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
